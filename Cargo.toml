@@ -1,0 +1,11 @@
+[package]
+name = "sensible_api"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dotenv = "0.15.0"
+reqwest = { version = "0.12", features = ["json"] }
+serde = { version = "1.0.202", features = ["derive"] }
+serde_json = "1.0.117"
+tokio = {version = "1.37.0", features = ["full"] }
