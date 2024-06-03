@@ -1,0 +1,1 @@
+Just learning some asynchronous Rust by trying to recreate the sensible api node-sdk. https://github.com/sensible-hq/sensible-api-js
